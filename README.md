@@ -1,6 +1,5 @@
 <hr/>
-<body style="background-color:black">
-<div align="center"style="color:white">
+<div align="center"style="color:white; "background-color:black"">
     <h1>Desenvolvimento de aplicações com .NET</h1>
     <h2><i>Projetando e desenvolvendo uma aplicação de login seguro usando ASP.NET Core MVC</i></h2>
     <p>Este repositório faz parte dos meus estudos na Digital Innovation One.</p>
