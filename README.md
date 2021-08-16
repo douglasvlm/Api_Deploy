@@ -10,9 +10,9 @@
   
     docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=App@223020" --name sqldica -p 1433:1433 -d mcr.microsoft.com/mssql/server:2019-latest
     
-    
+</div>    
 <hr/>
-
+<div align="center">
     <b>Repositório de referência:</b><br>
     <a href="https://github.com/leandrobianch/curso-dio-arquitetura-back-e-front-end"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
     <hr/>
