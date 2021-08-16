@@ -12,7 +12,7 @@
     
     
 <hr/>
-<div align="center">
+
     <b>Repositório de referência:</b><br>
     <a href="https://github.com/leandrobianch/curso-dio-arquitetura-back-e-front-end"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
     <hr/>
