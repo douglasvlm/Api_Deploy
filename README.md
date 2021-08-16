@@ -7,15 +7,12 @@
     <i>Desenvolvimento de aplicações com .NET</i>
     <hr/>
     <h4><img src="https://img.icons8.com/nolan/50/docker.png"/>Subindo o container docker em SQL SERVER</h4>
-<div>
-    ´´´´ 
-    <code>    
-    <i>docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=App@223020" --name sqldica -p 1433:1433 -d mcr.microsoft.com/mssql/server:2019-latest</i>  
-    </code>
-    ´´´´
-    <br><br>
+
+    ```
+    docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=App@223020" --name sqldica -p 1433:1433 -d mcr.microsoft.com/mssql/server:2019-latest
+    ```
     <hr/>
-</div>             
+            
 </div>
 <div align="center">
     <b>Repositório de referência:</b><br>
