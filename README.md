@@ -6,7 +6,7 @@
     <a href="https://digitalinnovation.one/sign-in"><img src="https://hermes.digitalinnovation.one/site/images/logo-footer.png" width="450" height="150"></a>
     <i>Desenvolvimento de aplicações com .NET</i>
     <hr/>
-    <h4><img src="https://img.icons8.com/nolan/50/docker.png"/>Subindo o container docker em SQL SERVER</h4>
+    <h4><a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  Subindo o container docker em SQL SERVER</h4>
   
     docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=App@223020" --name sqldica -p 1433:1433 -d mcr.microsoft.com/mssql/server:2019-latest
     
