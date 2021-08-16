@@ -19,10 +19,4 @@
     <b>Repositório de referência:</b><br>
     <a href="https://github.com/leandrobianch/curso-dio-arquitetura-back-e-front-end"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
     <hr/>
-</div>
-<div align="center">
-    <br>
-    <a href="https://www.linkedin.com/in/douglasvlm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-    <h4><i>Meu Linkedin</i></h4>
-    <hr/>
-</div>     
+</div>   
