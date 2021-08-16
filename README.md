@@ -2,9 +2,9 @@
 <div align="center">
     <h1>Desenvolvimento de aplicações com .NET</h1>
     <h2><i>Projetando e desenvolvendo uma aplicação de login seguro usando ASP.NET Core MVC</i></h2>
-    <p>Este repositório faz parte dos meus estudos na Digital Innovation One.</p>
-    <img src="https://hermes.digitalinnovation.one/site/images/logo-footer.png" width="400" height="125">
-    Desenvolvimento de aplicações com .NET
+    <h3>Este repositório faz parte dos meus estudos na Digital Innovation One.</h3>
+    <img src="https://hermes.digitalinnovation.one/site/images/logo-footer.png" width="450" height="150">
+    <i>Desenvolvimento de aplicações com .NET</i>
     <hr/>
     <h4><img src="https://img.icons8.com/nolan/50/docker.png"/>Subindo o container docker em SQL SERVER</h4>
     <code>    
